@@ -29,5 +29,4 @@ This calculator app provides basic arithmetic operations like addition, subtract
 
 ## Live URL
 
-   ```bash
-   https://calculator-iota-roan.vercel.app/
+[Live calculator link](https://calculator-iota-roan.vercel.app/)
